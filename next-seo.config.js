@@ -18,7 +18,7 @@ export default {
     },
     twitter: {
         handle: '@pomposan',
-        site: 'pompo-the-cinephile.com/',
+        site: 'pompo-the-cinephile.com',
         cardType: 'summary_large_image',
     },
 };
