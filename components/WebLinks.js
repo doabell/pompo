@@ -200,7 +200,7 @@ const Links = () => {
           </TopPart>
           <BottomPart>
             <LinkFoot>
-              <h4>{footerText} <a href={authorURL}>{author}</a></h4>
+              <h4>A <a href={authorURL}>{author}</a> Event</h4>
             </LinkFoot>
           </BottomPart>
 
