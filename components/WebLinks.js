@@ -139,10 +139,7 @@ const Links = () => {
                           )
                         })
                       }
-                    </LinkSection> : ''
-              }
-              {/* End Install Section */}
-              {(newProduct) ? <NewSection>
+                      {(newProduct) ? <NewSection>
                         <a href={newProductUrl} target="_blank" rel="noreferrer">
                           <img
                               src={'/pg.png'}
@@ -150,7 +147,11 @@ const Links = () => {
                           />
                         </a>
                       </NewSection> : ''
+                      }
+                    </LinkSection> : ''
               }
+              {/* End Install Section */}
+              
 
               {/* NFT Section */}
               {
