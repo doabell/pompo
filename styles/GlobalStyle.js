@@ -51,7 +51,7 @@ html{
     scroll-behavior: smooth;
 }
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', 'Noto Sans JP', sans-serif;
   background: ${({ theme }) => theme.bg.primary};
   color: ${({ theme }) => theme.text.primary};
   text-rendering: optimizeLegibility;
