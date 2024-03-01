@@ -11,7 +11,7 @@ const bioData = [
         descShow: true,
         subdesc: 'March 8 (Friday) 7–9pm @ MBH 220',
         subdescShow: true,
-        newProductUrl: 'https://3dicons.co',
+        newProductUrl: 'https://www.imdb.com/title/tt12439248/parentalguide',
         newProduct: true,
         author: 'J-House',
         authorURL: 'https://www.middlebury.edu/college/academics/japanese/student-resources/japanese-house',

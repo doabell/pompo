@@ -142,6 +142,15 @@ const Links = () => {
                     </LinkSection> : ''
               }
               {/* End Install Section */}
+              {(newProduct) ? <NewSection>
+                        <a href={newProductUrl} target="_blank" rel="noreferrer">
+                          <img
+                              src={'/pg.png'}
+                              className="parents"
+                          />
+                        </a>
+                      </NewSection> : ''
+              }
 
               {/* NFT Section */}
               {
@@ -171,15 +180,6 @@ const Links = () => {
                       <h3>{others[0].type}</h3>
                       {/* BioData.js > newProduct == true */}
                       {/* New Section will render once newProduct == true */}
-                      {(newProduct) ? <NewSection>
-                        <a href={newProductUrl} target="_blank" rel="noreferrer">
-                          <img
-                              src={'/newproduct.png'}
-                              className="newproduct"
-                          />
-                        </a>
-                      </NewSection> : ''
-                      }
                       {/* End Biodata.js, You can move this section anywhere */}
                       {
                         others.map((i) => {
