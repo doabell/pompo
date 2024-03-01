@@ -1,24 +1,24 @@
 export default {
     openGraph: {
         type: 'website',
-        locale: 'en_IE',
-        title: 'next lnks by realvjy',
-        url: 'https://vjy.me',
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk.',
+        locale: 'en_US',
+        title: '映画大好きポンポさん',
+        url: 'https://midd-pompo.vercel.app/',
+        description: 'Despite her promising outlook, Pompo refuses to produce anything other than trashy B-movies. That is, until she hands her assistant, Gene Fini, a script for an ambitious screenplay about the life of a composer and announces that he has earned his first directorial credit.',
         locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
+        keywords: 'director, anime, animation, movie, film, screening, event, japan',
         images: [
             {
-                width: 1200,
-                height: 630,
-                url: `https://vjy.me/preview.jpg`,
+                width: 1920,
+                height: 1080,
+                url: `https://midd-pompo.vercel.app/kv.png`,
             },
         ],
-        site_name: 'realvjy',
+        site_name: '映画大好きポンポさん',
     },
     twitter: {
-        handle: '@realvjy',
-        site: 'vjy.me',
+        handle: '@pomposan',
+        site: 'pompo-the-cinephile.com/',
         cardType: 'summary_large_image',
     },
 };

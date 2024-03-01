@@ -97,6 +97,7 @@ const Links = () => {
 
             {/* Bio Section */}
             <LinkBio>
+              {<h1>Movie Screening</h1>}
               {description && <h1>{descriptionText} </h1>}
               {subdesc && <h4>{subdescText}</h4>}
             </LinkBio>
