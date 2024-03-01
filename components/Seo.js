@@ -25,7 +25,7 @@ export default function Seo({ page }) {
                             alt: `${title}`,
                         },
                     ],
-                    site_name: '映画大好きポンポさん',
+                    site_name: 'Pompo: Movie Screening',
                 }}
                 twitter={{
                     handle: '@pomposan',

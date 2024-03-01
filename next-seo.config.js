@@ -2,7 +2,7 @@ export default {
     openGraph: {
         type: 'website',
         locale: 'en_US',
-        title: '映画大好きポンポさん',
+        title: 'Pompo: Movie Screening',
         url: 'https://midd-pompo.vercel.app/',
         description: 'Despite her promising outlook, Pompo refuses to produce anything other than trashy B-movies. That is, until she hands her assistant, Gene Fini, a script for an ambitious screenplay about the life of a composer and announces that he has earned his first directorial credit.',
         locale: 'en_EN',
@@ -14,7 +14,7 @@ export default {
                 url: `https://midd-pompo.vercel.app/kv.png`,
             },
         ],
-        site_name: '映画大好きポンポさん',
+        site_name: 'Pompo: Movie Screening',
     },
     twitter: {
         handle: '@pomposan',
