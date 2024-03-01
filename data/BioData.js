@@ -3,9 +3,9 @@ const bioData = [
     {
         name: '映画大好きポンポさん',
         username: 'Pompo: The Cinéphile',
-        url: 'midd-pompo.pages.dev',
-        titleImg: true,
-        avatar: '/avatar.png',
+        url: '#',
+        titleImg: false,
+        avatar: '/pompo.png',
         nftAvatar: true,
         description: '3月8日 (金) 夜 7–9 時 @ MBH 220',
         descShow: true,

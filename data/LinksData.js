@@ -26,7 +26,7 @@ const webLinks = [
         title: '公式サイト',
         url: 'https://pompo-the-cinephile.com/',
         type: 'install',
-        icon: '/pompo.png',
+        icon: '/web.svg',
         on: true
     },
     {

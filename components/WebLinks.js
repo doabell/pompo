@@ -132,7 +132,7 @@ const Links = () => {
                           return (
                               <a href={i.url} key={i.title} target="_blank" rel="noreferrer">
                                 <LinkBox>
-                                  <LinkTitle><img src={i.icon} style={{ filter: 'var(--img)' }} /> {i.title}</LinkTitle> <NewUp />
+                                  <LinkTitle><img src={i.icon} /> {i.title}</LinkTitle> <NewUp />
                                 </LinkBox>
                               </a>
                           )
