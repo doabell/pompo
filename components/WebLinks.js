@@ -126,7 +126,7 @@ const Links = () => {
               {
                 install.length > 0 ?
                     <LinkSection>
-                      <h3>{install[0].type}</h3>
+                      <h3>Links</h3>
                       {
                         install.map((i) => {
                           return (

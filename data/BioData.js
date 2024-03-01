@@ -1,21 +1,21 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        name: '映画大好きポンポさん',
+        username: 'Pompo: The Cinéphile',
+        url: 'midd-pompo.pages.dev',
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
+        description: '3月8日 (金) 夜 7–9 時 @ MBH 220',
         descShow: true,
-        subdesc: 'Use this template and deploy on vercel for free',
+        subdesc: 'March 8 (Friday) 7–9pm @ MBH 220',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
         newProduct: true,
-        author: 'realvjy',
-        authorURL: 'https://twitter.com/realvjy',
-        footerText: 'made by'
+        author: 'J-House',
+        authorURL: 'https://www.middlebury.edu/college/academics/japanese/student-resources/japanese-house',
+        footerText: 'An Event with'
     },
 ];
 
