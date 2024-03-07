@@ -31,7 +31,7 @@ const webLinks = [
     },
     {
         title: 'pixivコミック (Free)',
-        url: 'https://comic.pixiv.net/works/6411',
+        url: 'https://comic.pixiv.net/works/3728',
         type: 'install',
         icon: '/pixiv.png',
         on: true
